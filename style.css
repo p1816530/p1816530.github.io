@@ -34,7 +34,7 @@ body, html {
 }
 .bg {
     /* The image used */
-    background-image: url("background image.JPG");
+    background-image: url("background_image.JPG");
 
     /* Full height */
     height: 100%; 
